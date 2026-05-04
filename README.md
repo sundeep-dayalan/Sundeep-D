@@ -128,11 +128,9 @@ DOI: [10.1007/978-3-030-77637-4_2](https://doi.org/10.1007/978-3-030-77637-4_2)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundeep-dayalan&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sundeep-dayalan&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundeep-dayalan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundeep-dayalan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 </div>
 
