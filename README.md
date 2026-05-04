@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sundeepdayalan.in-0D47A1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sundeepdayalan.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundeep-dayalan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundeep.dayalan@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sundeep-D&label=Profile+Views&color=brightgreen&style=for-the-badge)](https://github.com/sundeep-dayalan)
+[![Profile Views](https://komarev.com/ghpvc/?username=sundeep-dayalan&label=Profile+Views&color=brightgreen&style=for-the-badge)](https://github.com/sundeep-dayalan)
 
 </div>
 
@@ -128,11 +128,11 @@ DOI: [10.1007/978-3-030-77637-4_2](https://doi.org/10.1007/978-3-030-77637-4_2)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sundeep-D&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundeep-dayalan&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sundeep-D&theme=radical&hide_border=false)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sundeep-dayalan&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundeep-D&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundeep-dayalan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
