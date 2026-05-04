@@ -4,7 +4,7 @@
 
 **Senior Full-Stack Engineer · AI/ML Builder · Distributed Systems**
 
-*Building fault-tolerant, high-throughput systems — from multi-agent AI platforms to city-scale computer vision*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+fault-tolerant+distributed+systems;Multi-agent+AI+%7C+LangChain+%7C+LangGraph;Fintech+%7C+Healthtech+%7C+IoT+%7C+CV;Springer+Published+%7C+Patent+Pending)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sundeepdayalan.in-0D47A1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sundeepdayalan.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundeep-dayalan)
@@ -128,9 +128,19 @@ DOI: [10.1007/978-3-030-77637-4_2](https://doi.org/10.1007/978-3-030-77637-4_2)
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sundeep-dayalan&theme=radical&hide_border=false)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sundeep-dayalan&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundeep-dayalan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+</div>
+
+<div align="center">
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sundeep-dayalan&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sundeep-dayalan&theme=react-dark&bg_color=20232a&color=F75C7E&line=F75C7E&point=ffffff&area=true&hide_border=true)
 
 </div>
 
